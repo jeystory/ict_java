@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.ict.edu1.bbs.java&apos; to &apos;BBS.java&apos;&#x0D;&#x0A;- Original project: &apos;10_package_exception&apos;&#x0D;&#x0A;- Original element: &apos;com.ict.edu1.bbs.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ict.edu1.BBS.java&apos;" description="Rename compilation unit &apos;bbs.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.ict.edu1{bbs.java" name="BBS.java" references="false" stamp="1574911320003" version="1.0"/>
+</session>
